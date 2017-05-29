@@ -1,0 +1,2 @@
+# thoth
+project automatic release
