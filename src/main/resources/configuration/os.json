@@ -1,0 +1,11 @@
+[
+  {
+    "tag": "Tag01",
+    "host": "192.168.1.5",
+    "port": 22,
+    "username": "david",
+    "password": "a19931018",
+    "tmp": "/tmp",
+    "tomcat": ""
+  }
+]
